@@ -15,7 +15,7 @@ public class DemoJob {
 		
 		String PageTitle = driver.getTitle();
 		System.out.println("This is the page title:" + PageTitle);
-		System.out.println("This commit changes");
+		System.out.println("This commit changes // changes on github repository on Omar Feature Branch");
 			
 		System.out.println("Hello atuomation tester your program ran sucesfully");
 		Thread.sleep(4000);
