@@ -15,7 +15,7 @@ public class DemoJob {
 		
 		String PageTitle = driver.getTitle();
 		System.out.println("This is the page title:" + PageTitle);
-		System.out.println("THIS IS THE NEW CHANGES TO IMPLEMENT FROM FIXES BRANCH");
+		System.out.println("This is the previous version of new branch");
 	
 			
 		System.out.println("Hello atuomation tester your program ran sucesfully");
